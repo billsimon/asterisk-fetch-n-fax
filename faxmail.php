@@ -1,4 +1,5 @@
 <?php
+/* License: GPLv3 */
 /* Install on the system: gs (ghostscript package), mail, php5-imap library */
 
 require_once('Mail/mimeDecode.php');
